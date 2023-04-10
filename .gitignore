@@ -36,6 +36,21 @@
 *.x86_64
 *.hex
 
+# Build files
+build/
+
+# Log files
+*.log
+
+# Managed Components
+managed_components/
+
+# Misc
+dependencies.lock
+sdkconfig
+sdkconfig.old
+.DS_Store
+
 # Debug files
 *.dSYM/
 *.su
